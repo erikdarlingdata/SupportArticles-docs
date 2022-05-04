@@ -40,7 +40,7 @@ Additionally, you may also notice blocking when you view various dynamic managem
 
 ## Cause
 
-This problem occurs if a large number of `ATTRIBUTE_LIST_ENTRY` instances are needed to maintain a heavily fragmented file in NFTS. This behavior is explained in following KB article:
+This problem occurs if a large number of `ATTRIBUTE_LIST_ENTRY` instances are needed to maintain a heavily fragmented file in NTFS. This behavior is explained in following KB article:
 
 [A heavily fragmented file in an NTFS volume may not grow beyond a certain size](https://support.microsoft.com/help/967351)
 
